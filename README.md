@@ -7,7 +7,7 @@ I love to help others and share learnings regarding [Magento](https://magento.co
 ## :heart_eyes: Professional things I'm doing
 
 * :construction_worker_man: Currently setting technical vision and strategy, developing career ladders and compentency matrices, building IT teams
-* :clock2: Establishing best practices and toolings regarding QA (automated testings coding standard checks, bug detection...), virtualized and standardized development environments (Puppet, Vagrant, Virtualbox, ...), Continuous Integration (CI) and Continuous Delivery (CD) with Jenkins and GitLab, monitoring and alerting with Icinga and Grafana
+* :clock2: Establishing best practices and toolings regarding QA (automated testings, coding standard checks, bug detection... in PHP), virtualized and standardized development environments (Puppet, Vagrant, Virtualbox, ...), Continuous Integration (CI) and Continuous Delivery (CD) with Jenkins and GitLab, monitoring and alerting with Icinga and Grafana
 * :writing_hand: Writing > 400 blog posts and articles on Magento 1 and Magento 2
 * :microphone: Speaking at events
 * :hugs: Founded and organized a Magento meetup (startet 2012, still going strong :muscle:)
